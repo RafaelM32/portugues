@@ -338,6 +338,61 @@ sobre bonobos e gorilas. Um táxi pro aeroporto e chego \
 ao embarque PhD em reforma tributária.","PRATA, A. Disponível em: www1.folha.uol.com.br.  \
 Acesso em: 7 jan. 2024 (adaptado).")
 
+texto_apoio_5 = new Texto_apoio(""," Evanildo Bechara prepara a sua aposentadoria de pouco \
+em pouco, como se a adiasse ao máximo. Aos 95 anos,  \
+o imortal da Academia Brasileira de Letras (ABL) alcançou \
+um status de astro pop no mundo da filologia e da gramática. \
+Quando ainda tinha saúde para viagens mais longas, o filólogo \
+lotava plateias em suas palestras na Europa e no Brasil,  \
+que não raro terminavam com filas para selfies.\
+ A idade acentuou o lado “cientista” e professoral de \
+Bechara, que adota um tom técnico na conversa até mesmo \
+diante das perguntas mais pessoais. — “Qual o seu tipo \
+preferido de leitura?”. — “A minha leitura está dividida em \
+duas partes, a científica e a literária, estabelecendo uma \
+relação de causa e efeito entre elas.” — responde.\
+ Ainda adolescente, Bechara descobriu a lexicologia. \
+Um “novo mundo” se abriu para o pernambucano, que \
+se mantém atento às metamorfoses do nosso idioma.  \
+Seu colega de ABL, o filólogo Ricardo Cavaliere, se lembra \
+de quando deu carona para o mestre e este encucou com \
+os estrangeirismos do aplicativo de navegação instalado \
+no veículo. — “A vozinha do aplicativo avisou que havia \
+um radar de velocidade ‘reportado’ à frente”, lembra \
+Cavaliere. — “Esse ‘reportado’ é uma importação, né?”, \
+notou Bechara.", " Disponível em: https://oglobo.globo.com.  \
+Acesso em: 3 jan. 2024 (adaptado).")
+
+texto_apoio_6 = new Texto_apoio("","A Língua da Tabatinga, falada na cidade de \
+Bom Despacho, Minas Gerais, foi por muito tempo \
+estigmatizada devido à sua origem e à própria classe social de \
+seus falantes, pois, segundo uma pesquisadora, era falada por \
+“meninos pobres vindos da Tabatinga ou de Cruz de Monte —  \
+ruas da periferia da cidade cujos habitantes sempre \
+foram tidos por marginais”. Conhecida por antigos como a  \
+“língua dos engraxates”, pois muitos trabalhadores desse \
+ofício conversavam nessa língua enquanto lustravam \
+sapatos na praça da matriz, a Língua da Tabatinga era \
+utilizada por negros escravizados como uma espécie de \
+“língua secreta”, um código para trocarem informações de \
+como conseguir alimentos, ou para planejar fugas de seus \
+senhores sem risco de serem descobertos por eles.\
+ De acordo com um documento do Iphan (2011),  \
+os falantes da língua apresentam uma forte consciência de \
+sua relação com a descendência africana e da importância \
+de preservar a “fala que os identifica na região”. Essa \
+mudança de compreensão tangencia aspectos de \
+pertencimento, pois, à medida que o falante da Língua \
+da Tabatinga se identifica com a origem afro-brasileira, \
+ele passa a ver essa língua como um legado recebido \
+e tem o cuidado de transmiti-la para outras gerações. \
+A concentração de falantes dessa língua está na faixa \
+entre 21 e 60 anos de idade.","Disponível em: www.historiaeparcerias2019.rj.anpuh.org.  \
+Acesso em: 3 fev. 2024 (adaptado).")
+
+
+
+
 ///QUESTOES
 const questao_0 = new Questao("A reportagem apresenta duas iniciativas: o livro Amazonês \
 e as camisetas do Caboquês Ilustrado. Com temática em \
@@ -382,11 +437,26 @@ sociais.",
 via rádio."
 ],[texto_apoio_4],false,"c")
 
+const questao_5 = new Questao("Nesse texto, as falas atribuídas a Evanildo Bechara são \
+representativas da variedade linguística",["A situacional, pois o contexto exige o uso da linguagem \
+formal.", "B regional, pois ele traz marcas do falar de seu local de \
+nascimento.", "C sociocultural, pois sua formação pressupõe o uso de \
+linguagem rebuscada.", "D geracional, pois ele emprega termos característicos de \
+sua faixa etária.", "E ocupacional, pois ele faz uso de termos específicos de \
+sua área de atuação."],[texto_apoio_5],false,"e")
+
+const questao_6 = new Questao("A Língua da Tabatinga tem sido preservada porque o(a)",["A seu registro passou da forma oral para a escrita.",
+    "B classe social de seus usuários ganhou prestígio.",
+    "C sua função inicial se manteve ao longo dos anos.",
+    "D sentimento de identidade linguística tem se consolidado.",
+    "E perfil etário de seus falantes tem se tornado homogêneo."
+],[texto_apoio_6],false,"d")
+
 
 
 ///LISTA PRINCIPAL
 
-const lista_de_questoes = [questao_0, questao_1,questao_2,questao_3,questao_4]
+const lista_de_questoes = [questao_0, questao_1,questao_2,questao_3,questao_4, questao_5]
 
 botao_proxima.addEventListener("click", function(){
     proximaQuestao(lista_de_questoes)
