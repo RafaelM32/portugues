@@ -390,7 +390,93 @@ A concentração de falantes dessa língua está na faixa \
 entre 21 e 60 anos de idade.","Disponível em: www.historiaeparcerias2019.rj.anpuh.org.  \
 Acesso em: 3 fev. 2024 (adaptado).")
 
+texto_apoio_7 = new Texto_apoio("","Diante do pouco dinheiro para produtos básicos de \
+sobrevivência, são as adolescentes o alvo mais vulnerável \
+à precariedade menstrual. Sofrem com dois fatores:  \
+o desconhecimento da importância da higiene menstrual \
+para sua saúde e a dependência dos pais ou familiares para \
+a compra do absorvente, que acaba entrando na lista de \
+artigos supérfluos da casa.\
+ A falta do absorvente afeta diretamente o desempenho \
+escolar dessas estudantes e, como consequência, restringe \
+o desenvolvimento de seu potencial na vida adulta. \
+Dados da Pesquisa Nacional de Saúde (PNS), do IBGE, \
+revelaram que, das meninas entre 10 e 19 anos que \
+deixaram de fazer alguma atividade (estudar, realizar \
+afazeres domésticos, trabalhar ou, até mesmo, brincar) \
+por problemas de saúde nos 14 dias anteriores à data \
+da pesquisa, 2,88% deixaram de fazê-la por problemas \
+menstruais. Para efeitos de comparação, o índice de \
+meninas que relataram não ter conseguido realizar alguma \
+de suas atividades por gravidez e parto foi menor: 2,55%.\
+ Dados da ONU apontam que, no mundo, uma em cada \
+dez meninas falta às aulas durante o período menstrual. \
+No Brasil, esse número é ainda maior: uma entre quatro \
+estudantes já deixou de ir à escola por não ter absorventes. \
+Com isso, perdem, em média, até 45 dias de aula, por \
+ano letivo, como revela o levantamento Impacto da Pobreza \
+Menstrual no Brasil. O ato biológico de menstruar acaba \
+por virar mais um fator de desigualdade de oportunidades \
+entre os gêneros."," Disponível em: www12.senado.leg.br.  \
+Acesso em: 21 jan. 2024 (adaptado).")
 
+texto_apoio_8 = new Texto_apoio("","Maranhenses que moram longe matam a saudade da \
+terra natal usando expressões próprias do estado. Se o \
+maranhês impressiona e desperta a curiosidade de quem \
+mora no próprio Maranhão, imagine de quem vem de \
+outros estados e países? A variedade linguística local é \
+enorme e o modo de falar tão próprio e característico dos \
+maranhenses vem conquistando muita gente e inspirando \
+títulos e muito conteúdo digital com a criação de podcasts, \
+blogs, perfis na internet, além de estampar diversos tipos \
+de produtos e serviços de empresas locais.\
+ Com saudades do Maranhão, morando há 16 anos no \
+Rio de Janeiro, um fotógrafo maranhense criou um perfil \
+na internet no qual compartilha a culinária, brincadeiras e o \
+‘dicionário’ maranhês. “A primeira vez que fui a uma padaria \
+no Rio, na inocência, pedi 3 reais de ‘pães misturados’. \
+Quando falei isso, as pessoas pararam e me olharam de \
+uma forma bem engraçada, aí já fiquei ‘encabulado, ó’ \
+e o atendente sorriu e explicou que lá não existia pão \
+misturado e, sim, pão francês e suíço. Depois foi a minha \
+vez de explicar sobre os pães ‘massa grossa e massa \
+f\
+ ina’”, contou o fotógrafo, com humor.","Disponível em: https://oimparcial.com.br.  \
+Acesso em: 1 nov. 2021 (adaptado).")
+
+texto_apoio_9 = new Texto_apoio("Telemedicina é para todos,  \
+mas nem todos estão preparados", " A telemedicina, nos últimos anos, tem se destacado \
+como uma ferramenta valiosa, proporcionando uma gama \
+de benefícios que vão desde a ampliação do acesso à \
+assistência médica até a otimização dos recursos de todo \
+o ecossistema de saúde.\
+ O governo federal propõe a Estratégia de Saúde Digital, \
+um programa destinado à transformação digital da saúde no \
+Brasil. Seu principal objetivo é facilitar a troca de informações \
+entre os diversos pontos da Rede de Atenção à Saúde, \
+promovendo a interoperabilidade e, assim, possibilitando a \
+transição e a continuidade do cuidado nos setores público e \
+privado. Também está em discussão um projeto de lei que \
+dispõe sobre o prontuário eletrônico unificado do cidadão, \
+o que indica o quanto o tema está em evidência tanto para \
+os gestores públicos quanto para os privados.\
+ Contudo, é importante reconhecer que nem todas as \
+pessoas estão igualmente preparadas para aproveitar \
+plenamente os cuidados ofertados pela telemedicina. \
+Um dos principais benefícios do atendimento de saúde a \
+distância é a capacidade de superar barreiras geográficas, \
+proporcionando acesso a serviços médicos, especialmente \
+para pacientes que residem em áreas remotas e/ou carentes \
+de certas especialidades médicas, os chamados “vazios \
+assistenciais”. A equidade no acesso é uma questão crítica, \
+uma vez que nem todos têm ao seu alcance dispositivos \
+tecnológicos ou uma conexão à internet que seja confiável, \
+entre outros problemas de infraestrutura. É um desafio \
+tanto para os pacientes quanto para os profissionais de \
+saúde, que, em muitos casos, não contam com estrutura \
+para o trabalho remoto nem com letramento digital para \
+desenvolver as funções.","OLIVEIRA, D. Disponível em: www.correiobraziliense.com.br.  \
+Acesso em: 21 jan. 2024 (adaptado).")
 
 
 ///QUESTOES
@@ -452,11 +538,38 @@ const questao_6 = new Questao("A Língua da Tabatinga tem sido preservada porque
     "E perfil etário de seus falantes tem se tornado homogêneo."
 ],[texto_apoio_6],false,"d")
 
+const questao_7 = new Questao("Esse texto é marcado pela função referencial da linguagem, \
+uma vez que cumpre o propósito de",["A sugerir soluções para um problema de ordem social.",
+    "B estabelecer uma relação entre menstruação e gravidez.",
+    "C comparar o desempenho acadêmico de mulheres e \
+homens.",
+"D informar o leitor sobre o impacto da pobreza menstrual \
+na vida das mulheres.",
+"E orientar o público sobre a necessidade de rotinas de \
+autocuidado na adolescência."
+],[texto_apoio_7],false,"d")
+
+const questao_8 = new Questao("A vivência relatada no texto evidencia que as variedades \
+linguísticas", ["A impedem o entendimento mútuo.",
+    "B enaltecem o português do Maranhão.",
+    "C são constitutivas do português brasileiro.",
+    "D exigem a dicionarização dos termos usados.",
+    "E são restritas a situações coloquiais de comunicação."
+],[texto_apoio_8],false,"c")
+
+
+const questao_9 = new Questao(" Ao tratar da telemedicina, esse texto ressalta que um dos \
+benefícios dessa tecnologia para a sociedade é o fato de ela",["A disponibilizar prontuário único do cidadão tanto na rede \
+pública quanto na privada.", "B oportunizar o acesso a atendimento médico a pacientes \
+de áreas periféricas.", "C fornecer dispositivos tecnológicos para a realização \
+de exames.", "D promover a interação entre diferentes especialidades \
+médicas.", "E garantir infraestrutura para o trabalho remoto de \
+médicos."],[texto_apoio_9],false,"b")
 
 
 ///LISTA PRINCIPAL
 
-const lista_de_questoes = [questao_0, questao_1,questao_2,questao_3,questao_4, questao_5]
+const lista_de_questoes = [questao_0, questao_1,questao_2,questao_3,questao_4, questao_5,questao_6,questao_7,questao_8,questao_9]
 
 botao_proxima.addEventListener("click", function(){
     proximaQuestao(lista_de_questoes)
