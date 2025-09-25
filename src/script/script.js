@@ -234,7 +234,9 @@ function questaoAnterior(lista){
 
 
 ///IMAGENS DE APOIO
-imagem_apoio_0 = new Imagem_apoio()
+imagem_apoio_0 = new Imagem_apoio("0","Diadema (etnia Kayapó). Estados do Mato Grosso e Pará. \
+Museu de Arte Indígena, s.d. \
+Disponível em: www.maimuseu.com.br. Acesso em: 11 jul. 2024.")
 imagem_apoio_1 = new Imagem_apoio()
 
 ///TEXTOS DE APOIO
@@ -478,6 +480,112 @@ para o trabalho remoto nem com letramento digital para \
 desenvolver as funções.","OLIVEIRA, D. Disponível em: www.correiobraziliense.com.br.  \
 Acesso em: 21 jan. 2024 (adaptado).")
 
+texto_apoio_10 = new Texto_apoio("","Uma definição possível para o conceito de arte \
+afro-brasileira pode ser: produção plástica que é feita por \
+negros, mestiços ou brancos a partir de suas experiências \
+sociais com a cultura negra nacional. Exemplos clássicos \
+dessa abordagem são Carybé (1911-1997), Mestre Didi \
+(1917-2013) e Djanira da Motta e Silva (1914-1979), cujas \
+obras emergem e ganham forma em razão do ambiente \
+social no qual habitaram e viveram. Se Didi era um \
+célebre representante da cultura religiosa nagô baiana e \
+brasileira, iniciado desde o ventre no candomblé, Carybé \
+era argentino e, naturalizado brasileiro, envolveu-se de \
+tal modo com essa religião que alguns dos orixás dos \
+quais conhecemos a imagem visual são produções suas","Disponível em: www.premiopipa.com. \
+Acesso em: 13 nov. 2021 (adaptado).")
+
+texto_apoio_11 = new Texto_apoio("","Influenciadores negros têm recorrentemente chamado \
+a atenção para o fato de terem muito menos repercussão \
+em suas postagens e nas entregas do seu conteúdo \
+quando comparados com os influenciadores brancos, \
+mesmo se fotos, contextos e anúncios forem extremamente \
+semelhantes. Segundo o site Negrê, a digital influencer \
+e youtuber criadora do projeto digital Preta Pariu iniciou \
+um experimento em uma plataforma. Após perceber a \
+crescente queda nos índices de alcance digital, a paulista \
+publicou fotografias de modelos brancas em seu perfil e \
+analisou as métricas de engajamento. Surpreendentemente, \
+a ferramenta de estatísticas aferiu um aumento de 6 000% \
+em seu alcance.","Disponível em: https://diplomatique.org.br. \
+Acesso em: 21 jan. 2024 (adaptado).")
+
+texto_apoio_12 = new Texto_apoio("","Um estudo norte-americano analisou os efeitos \
+da pandemia da covid-19 sobre a saúde mental e a \
+manutenção da atividade física, revelando que um fator \
+está diretamente ligado ao outro. De acordo com os dados, \
+famílias de baixa renda foram mais impactadas pelo \
+ciclo vicioso de falta de motivação e pelo sedentarismo. \
+Diante da necessidade de distanciamento social e do \
+início da quarentena, as opções de espaços seguros \
+para exercícios físicos diminuíram, o que dificultou que as \
+pessoas mantivessem seus níveis de atividade. Os dados \
+evidenciaram que as pessoas mais ativas tinham melhor \
+estado de saúde mental. As pessoas com menor renda \
+tiveram mais dificuldade para manter os níveis de atividade \
+física durante a pandemia, sendo aproximadamente \
+duas vezes menos propensas a continuarem no mesmo \
+ritmo de exercícios de antes da pandemia. Habitantes \
+de áreas urbanas mostraram maior probabilidade de \
+não conseguirem manter os níveis de atividade física \
+semelhantes aos de pessoas que vivem em zonas rurais, \
+onde há mais oportunidades de sair para espaços abertos.","Disponível em: https://revistagalileu.globo.com. \
+Acesso em: 6 dez. 2021 (adaptado).")
+
+texto_apoio_13 = new Texto_apoio("","Até ali que sabia das misérias do mundo? Nada.\
+Aquela noite do Castelo, tão simples, tão monótona, \
+fora uma revelação! Era bem certo que a lágrima existia, \
+que irrompiam soluços de peitos oprimidos, que para \
+alguém os dias não tinham cor nem a noite tinha estrelas! \
+Ela, criada entre beijos, no aroma dos seus jardins, com as \
+vontades satisfeitas, o leito fofo, a mesa delicada, sentira \
+sempre no coração um desejo sem nome, um desejo ou \
+uma saudade absurda, a saudade do céu, como dizia o \
+dr. Gervásio, e que não era mais que a doida aspiração \
+da artista incipiente, que germinava no seu peito fraco. \
+E aquela mesma mágoa parecia-lhe agora doce e \
+embaladora, comparando-se à outra, a Sancha, da sua \
+idade, negra, feia, suja, levada a pontapés, dormindo \
+sem lençóis em uma esteira, comendo em pé, apressada, \
+os restos parcos e frios de duas velhas, vestida de algodões \
+rotos, curvada para um trabalho sem descanso nem paga! \
+Por quê? Que direito teriam uns a todas as primícias e \
+regalos da vida, se havia outros que nem por uma nesga \
+viam a felicidade?","ALMEIDA, J. L. A falência. Disponível em: www.dominiopublico.gov.br. \
+Acesso em: 28 dez. 2023.")
+
+texto_apoio_14 = new Texto_apoio("","Sempre passo nervoso quando leio minha crônica \
+neste jornal e percebo que escapuliu a palavra “coisa” em \
+alguma frase. Acontece que “coisa” está entre as coisas \
+mais deliciosas do mundo. \
+O primeiro banho da minha filha foi embalado pela \
+minha voz dizendo, ao fundo, “cuidado, ela ainda é uma \
+coisinha tão pequena”. “Viu só que amor? Nunca vi coisa \
+assim”. O amor que não dá conta de explicação é “a coisa” \
+em seu esplendor e excelência. “Alguma coisa acontece \
+no meu coração” é a frase mais bonita que alguém já disse \
+sobre São Paulo. E quando Caetano, citado aqui pela \
+terceira vez pra defender a dimensão poética da coisa, \
+diz “coisa linda”, nós sabemos que nenhuma palavra \
+definiria de forma mais profunda e literária o quão bela e \
+amada uma coisa pode ser. \
+“Coisar” é verbo de quem está com pressa ou tem \
+lapsos de memória. É pra quando “mexe qualquer coisa \
+dentro doida”. E que coisa magnífica poder se expressar \
+tal qual Caetano Veloso. Agora chega, porque “esse papo \
+já tá qualquer coisa” e eu já tô “pra lá de Marrakech”.","TATI BERNARDI. Disponível em: www1.folha.uol.com.br. \
+Acesso em: 3 jan. 2024 (adaptado).")
+
+texto_apoio_15 = new Texto_apoio("","A linguagem visual dos adornos transmite informações \
+sobre prestígio e transgressão, direito e dever, pois só é \
+permitido ao indivíduo o uso de adornos de sua linhagem. \
+Quando diretamente vinculadas aos conceitos cosmológicos, \
+as artes indígenas convertem-se antes em prismas que \
+refletem as concepções acerca da composição do universo \
+e dos componentes que o povoam.","AGUILAR, N. (Org.); DIAS, J. A. B. F.; VELTHEN, L. H. V. Mostra do \
+redescobrimento: artes indígenas. São Paulo: Fundação Bienal de \
+São Paulo-Associação Brasil 500 anos, 2000 (adaptado)")
+
 
 ///QUESTOES
 const questao_0 = new Questao("A reportagem apresenta duas iniciativas: o livro Amazonês \
@@ -566,10 +674,68 @@ de exames.", "D promover a interação entre diferentes especialidades \
 médicas.", "E garantir infraestrutura para o trabalho remoto de \
 médicos."],[texto_apoio_9],false,"b")
 
+const questao_10 = new Questao("Sob a perspectiva da multiculturalidade e de acordo com \
+o texto, a produção artística afro-brasileira caracteriza-se \
+pelo(a)",["A estranhamento no modo de apropriação da cultura \
+religiosa de matriz africana.", "B distanciamento entre as raízes de matriz africana e \
+a estética de outras culturas.", "C visão uniformizadora das religiões de matriz africana \
+expressada nas diferentes produções.", "D relação complexa entre as vivências pessoais dos \
+artistas e os referenciais estéticos de matriz africana.", "E padronização da forma de produção e da temática da \
+matriz africana presente nas obras dos artistas citados."],[texto_apoio_10],false,"d")
+
+const questao_11 = new Questao("A apresentação do dado estatístico ao final desse texto \
+revela a intenção de", ["A demonstrar a repercussão de projetos como o Preta Pariu.",
+    "B informar o quantitativo de postagens da comunidade negra.",
+    "C potencializar o alcance de textos e imagens em sites \
+como o Negrê.",
+    "D exaltar a qualidade das publicações sobre negritude \
+em redes sociais.",
+    "E comprovar a relação entre o alcance de conteúdos \
+digitais e o viés racial."
+],[texto_apoio_11],false,"e")
+
+const questao_12 = new Questao("O texto evidencia a perspectiva ampliada de saúde ao \
+abordar criticamente a pandemia da covid-19 a partir do(a)", ["A busca por espaços para a prática de exercícios físicos.",
+    "B necessidade de se manter ativo para ter equilíbrio \
+emocional.",
+    "C distanciamento social e sua vinculação com a prática \
+de atividades físicas.",
+    "D relação entre os determinantes socioeconômicos e a \
+prática de exercícios.",
+    "E benefício de morar em áreas rurais para preservar a\
+estabilidade psicológica."
+],[texto_apoio_12],false,"d")
+
+const questao_13 = new Questao("Nesse fragmento do romance de Júlia Lopes de Almeida, \
+escrito no cenário brasileiro pós-abolição, a narradora \
+exprime um olhar crítico sobre a", ["A desvalorização da arte produzida por mulheres.",
+    "B mudança das condições de moradia do povo negro.",
+    "C ruptura do projeto político de emancipação feminina.",
+    "D exploração da força de trabalho da população negra.",
+    "E disputa de poder entre brancos e negros no século XIX."
+],[texto_apoio_13],false,"d")
+
+const questao_14 = new Questao("O recurso utilizado na progressão textual para garantir a \
+unidade temática dessa crônica é a", ["A intertextualidade, marcada pela citação de versos de \
+letras de canções.", "B metalinguagem, marcada pela referência à escrita de \
+crônicas pela autora.", "C reiteração, marcada pela repetição de uma determinada \
+palavra e de seus cognatos", "D conexão, marcada pela presença dos conectores lógicos \
+“quando” e “porque” entre orações.", "E pronominalização, marcada pela retomada de “minha filha” \
+e “um namorado ruim” pelos pronomes “ela” e “lo”"],[texto_apoio_14],false,"c")
+
+const questao_15 = new Questao("Pela leitura desses textos, infere-se que a compreensão \
+da arte plumária indígena requer a consideração da",["A indistinção hierárquica entre os membros de um mesmo \
+grupo social.","B prevalência dos elementos do mundo natural sobre as \
+relações humanas.", "C reconfiguração constante das representações coletivas \
+acerca do universo.", "D indeterminação entre as noções de identidade individual \
+e de identidade cultural.","E indissociabilidade entre objetos ritualísticos e os papéis \
+dos indivíduos na comunidade."],[texto_apoio_15],[imagem_apoio_0],"e")
 
 ///LISTA PRINCIPAL
 
-const lista_de_questoes = [questao_0, questao_1,questao_2,questao_3,questao_4, questao_5,questao_6,questao_7,questao_8,questao_9]
+const lista_de_questoes = [questao_0, questao_1,questao_2,questao_3,questao_4,
+     questao_5,questao_6,questao_7,questao_8,questao_9,questao_10,questao_11,
+    questao_12,questao_13,questao_14,questao_15]
 
 botao_proxima.addEventListener("click", function(){
     proximaQuestao(lista_de_questoes)
