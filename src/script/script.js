@@ -237,7 +237,10 @@ function questaoAnterior(lista){
 imagem_apoio_0 = new Imagem_apoio("0","Diadema (etnia Kayapó). Estados do Mato Grosso e Pará. \
 Museu de Arte Indígena, s.d. \
 Disponível em: www.maimuseu.com.br. Acesso em: 11 jul. 2024.")
-imagem_apoio_1 = new Imagem_apoio()
+imagem_apoio_1 = new Imagem_apoio("1","VISCONTI, E. Três meninas no jardim. Óleo sobre tela,  \
+81 × 65 cm. Museu Nacional de Belas Artes,  \
+Rio de Janeiro, 1935. \
+ Disponível em: www.eliseuvisconti.com.br. Acesso em: 18 set. 2012.")
 
 ///TEXTOS DE APOIO
 texto_apoio_0 = new Texto_apoio("Expressões e termos utilizados no Amazonas \
@@ -586,6 +589,105 @@ e dos componentes que o povoam.","AGUILAR, N. (Org.); DIAS, J. A. B. F.; VELTHEN
 redescobrimento: artes indígenas. São Paulo: Fundação Bienal de \
 São Paulo-Associação Brasil 500 anos, 2000 (adaptado)")
 
+texto_apoio_16 = new Texto_apoio(" Capítulo 4, versículo 3","Minha palavra vale um tiro, eu tenho muita munição \
+ Na queda ou na ascensão, minha atitude vai além \
+ E tem disposição pro mal e pro bem \
+ Talvez eu seja um sádico ou um anjo, um mágico \
+ Ou juiz, ou réu, o bandido do céu \
+ Malandro ou otário, quase sanguinário \
+ Franco atirador se for necessário \
+ Revolucionário, insano, ou marginal \
+ Antigo e moderno, imortal \
+ Fronteira do céu com o inferno \
+ Astral imprevisível, como um ataque cardíaco do verso.","RACIONAIS MCs. Sobrevivendo ao inferno.  \
+São Paulo: Cosa Nostra, 1997 (fragmento).")
+
+texto_apoio_17 = new Texto_apoio("","Pode-se dizer que as várias experiências narradas \
+nos discos do Racionais tratam no fundo de um só tema: \
+a violência que estrutura a nossa sociedade. O grupo \
+canta a violência que estrutura as relações entre os \
+familiares, os amigos, o homem e a mulher, o traficante e \
+o viciado. Canta a violência do crime. A violência causada \
+por inveja ou por vaidade. Também canta que a relação \
+entre as classes sociais é sempre violenta: o racismo, \
+a miséria, os baixos salários, a concentração de renda,  \
+a esmola, a publicidade, o alcoolismo, o jornalismo, o poder \
+policial, a justiça, o sistema penitenciário, o governo existem \
+por meio da violência.","GARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \
+literatura brasileira, n. 5, 2004 (adaptado).")
+
+texto_apoio_18 = new Texto_apoio("","As reações à sétima temporada foram o ápice do último \
+estágio em Game of Thrones. De forma alguma, este que \
+vos fala seria capaz de argumentar que a série é perfeita, \
+mas os defeitos que existem aqui sempre existiram, de uma \
+forma ou de outra, durante os sete anos em que ela esteve \
+no ar. Os dois roteiristas foram brilhantes em traduzir os \
+personagens intrincados e conflituosos da obra de George \
+R. R. Martin, mas nunca souberam exatamente como fazer \
+jus a eles (e especialmente a elas, as mulheres da trama).\
+ A verdade é que, com tudo isso e mais Ramin Djawadi \
+evocando sentimentos e ambientes improváveis com sua \
+trilha sonora magistral, a série não conseguiria ser ruim nem \
+se tentasse, mas continua sendo uma pena que, ao buscar \
+o seu final com tanta sede e tanta celeridade, Benioff e \
+Weiss tenham tirado sua qualidade mais preciosa: o fôlego, \
+a paciência e o detalhismo que faziam suas palavras se \
+levantarem do papel e ganharem vida."," Disponível em: https://observatoriodocinema.uol.com.br.  \
+Acesso em: 29 nov. 2017 (adaptado)")
+
+texto_apoio_19 = new Texto_apoio("","— Vá para o inferno, Gondim. Você acanalhou o troço. \
+Está pernóstico, está safado, está idiota. Há lá ninguém \
+que fale dessa forma!\
+ Azevedo Gondim apagou o sorriso, engoliu em seco, \
+apanhou os cacos da sua pequenina vaidade e replicou \
+amuado que um artista não pode escrever como fala. \
+ — Não pode? — perguntei com assombro. E por quê? \
+ Azevedo Gondim respondeu que não pode porque \
+não pode.\
+ — Foi assim que sempre se fez. A literatura é a \
+literatura, seu Paulo. A gente discute, briga, trata de \
+negócios naturalmente, mas arranjar palavras com tinta é \
+outra coisa. Se eu fosse escrever como falo, ninguém me lia."," RAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.")
+
+texto_apoio_20 = new Texto_apoio("","Por trás do universo “masculino” das lutas, é cada \
+vez mais notório o aumento da participação de mulheres \
+nessa prática corporal. Algumas situações reforçam esse \
+fenômeno de ocupação em ambientes de lutas: a inclusão \
+de mulheres em combates de artes marciais mistas, ou MMA,  \
+a transmissão televisiva de lutas de mulheres e a criação de \
+horários específicos para elas em academias que ensinam \
+lutas. Uma pesquisa científica mostrou menor participação e \
+mobilização das meninas em comparação com os meninos \
+nas aulas de Educação Física. Entre as justificativas discentes \
+para essa situação está o fato de que eles relacionam a luta \
+como uma expressão corporal masculina e, por consequência, \
+não adequada aos interesses femininos. Dessa forma, o ensino \
+de lutas nas aulas de Educação Física é atravessado por \
+tensões relacionadas às questões de gênero e sexualidade,  \
+o que, por sua vez, pode favorecer a sua exclusão do conteúdo \
+próprio da disciplina.","SO, M. R.; MARTINS, M. Z.; BETTI, M. As relações das meninas \
+com os saberes das lutas nas aulas de Educação Física. \
+Motrivivência, n. 56, dez. 2018 (adaptado).")
+
+texto_apoio_21 = new Texto_apoio("","Volta e meia recebo cartinhas de fãs, e alguns são bem \
+jovens, contando como meu trabalho com a música mudou \
+a vida deles. Fico no céu lendo essas coisas e me emociono \
+quando escrevem que não são aceitos pelos pais por serem \
+diferentes, e como minhas músicas são uma companhia e \
+os libertam nessas horas de solidão.\
+ Sinto que é mais complicado ser jovem hoje, já que nunca \
+tivemos essa superpopulação no planeta: haja competitividade, \
+culto à beleza, ter filho ou não, estudar, ralar para arranjar \
+trabalho, ser mal remunerado, ser bombardeado com trocentas \
+informações, lavagens cerebrais...\
+ Queria dar beijinhos e carinhos sem ter fim nessa moçada e \
+dizer a ela que a barra é pesada mesmo, mas que a juventude \
+está a seu favor e, de repente, a maré de tempestade muda. \
+Diria também um monte de clichê: que vale a pena estudar \
+mais, pesquisar mais, ler mais. Diria que não é sinal de saúde \
+estar bem-adaptado a uma sociedade doente, que o que é \
+normal para uma aranha é o caos para uma mosca. \
+Meninada, sintam-se beijados pela vovó Rita."," RITA LEE. Outra autobiografia. São Paulo: Globo Livros, 2023.")
 
 ///QUESTOES
 const questao_0 = new Questao("A reportagem apresenta duas iniciativas: o livro Amazonês \
@@ -731,11 +833,69 @@ acerca do universo.", "D indeterminação entre as noções de identidade indivi
 e de identidade cultural.","E indissociabilidade entre objetos ritualísticos e os papéis \
 dos indivíduos na comunidade."],[texto_apoio_15],[imagem_apoio_0],"e")
 
+const questao_16 = new Questao(" Na letra da canção, a tematização da violência mencionada \
+no Texto II manifesta-se",["A como metáfora da desigualdade, que associa a ideia de \
+justiça a valores históricos negativos.",
+"B na referência a termos bélicos, que sinaliza uma crítica \
+social à opressão da população das periferias.",
+"C como procedimento metalinguístico, que concebe a \
+palavra como uma forma de combate e insubordinação.",
+"D nas definições ambíguas do enunciador, que inverte e \
+relativiza as representações da maldade e da bondade.",
+"E na menção à imortalidade, que sugere a possibilidade de \
+resistência para além da dicotomia entre vida e morte."
+],[texto_apoio_16,texto_apoio_17],false,"c")
+
+const questao_17 = new Questao(" Ainda que faça uma avaliação positiva da série, nessa \
+resenha, o autor aponta aspectos negativos da obra ao utilizar",["A marcas de impessoalidade que disfarçam a opinião do \
+especialista.", "B  expressões adversativas para fazer ressalvas às \
+afirmações elogiosas.", "C interlocução com o leitor para corroborar opiniões \
+contrárias à adaptação.", "D  eufemismos que minimizam as críticas feitas à \
+construção das personagens.", "E antíteses que opõem a fragilidade do roteiro à beleza \
+da trilha sonora da série."],[texto_apoio_18],false,"b")
+
+const questao_18 = new Questao("Nesse fragmento, a discussão dos personagens traz à \
+cena um debate acerca da escrita que",["A diferencia a produção artística do registro padrão da língua.",
+    "B aproxima a literatura de dialetos sociais de pouco prestígio.",
+    "C defende a relação entre a fala e o estilo literário de um autor.",
+    "D contrapõe o preciosismo linguístico a situações de \
+coloquialidade.",
+"E associa o uso da norma culta à ocorrência de \
+desentendimentos pessoais."
+],[texto_apoio_19],false,"d")
+
+const questao_19 = new Questao("Eliseu D’Angelo Visconti (1866-1944) desenvolveu diversas \
+obras no Brasil, com grande influência das escolas \
+europeias. Em sua pintura Três meninas no jardim, há",["A culto à fluidez e ao progresso, nos moldes do ideário \
+futurista.", "B valorização de formas decompostas, a exemplo do \
+estilo cubista.", "C efeitos fugazes de luz e movimento, que remetem à \
+estética impressionista.", "D expressão do sonho e do inconsciente, que dialoga \
+com a proposta surrealista.", "E tematização de elementos cotidianos, que resgata \
+modelos de representação da arte realista."],false,[imagem_apoio_1], "c")
+
+const questao_20 = new Questao("Segundo o texto, apesar do aumento da participação de \
+mulheres em lutas, a realidade na escola ainda é diferente \
+em razão do(a)",["A esportivização desse conteúdo.",
+    "B masculinização dessa modalidade.",
+    "C enfoque desses eventos pela mídia.",
+    "D trato pedagógico dessa manifestação.",
+    "E marginalização desse tema pela Educação Física."
+],[texto_apoio_20],false,"b")
+
+const questao_21 = new Questao("Como estratégia para se aproximar de seu leitor, a autora \
+usa uma postura de empatia explicitada em",["A  “Volta e meia recebo cartinhas de fãs, e alguns são \
+bem jovens”.", "B  “Fico no céu lendo essas coisas”.",
+"C “Sinto que é mais complicado ser jovem hoje”.",
+"D  “Queria dar beijinhos e carinhos sem ter fim nessa moçada”.",
+"E “Diria que não é sinal de saúde estar bem-adaptado a \
+uma sociedade doente”."],[texto_apoio_21],false,"c")
+
 ///LISTA PRINCIPAL
 
 const lista_de_questoes = [questao_0, questao_1,questao_2,questao_3,questao_4,
      questao_5,questao_6,questao_7,questao_8,questao_9,questao_10,questao_11,
-    questao_12,questao_13,questao_14,questao_15]
+    questao_12,questao_13,questao_14,questao_15,questao_16,questao_17,questao_18,
+questao_19,questao_20,questao_21]
 
 botao_proxima.addEventListener("click", function(){
     proximaQuestao(lista_de_questoes)
